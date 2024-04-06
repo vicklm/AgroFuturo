@@ -8,11 +8,58 @@ Azle helps you to build secure decentralized/replicated servers in TypeScript or
 
 For more documentation please see [The Azle Book](https://demergent-labs.github.io/azle/).
 
+
 Please remember that Azle is in beta and thus it may have unknown security vulnerabilities due to the following:
 
 -   Azle is built with various software packages that have not yet reached maturity
 -   Azle does not yet have multiple independent security reviews/audits
 -   Azle does not yet have many live, successful, continuously operating applications deployed to ICP
+
+
+AGROFUTURO es un sistema diseñado para optimizar los procesos en los ranchos ganaderos, agilizando el control de entradas y salidas del ganado, mejorando la gestión de la información y facilitando las transacciones dentro de los mismos ranchos con un enfoque en la movilidad.
+
+Problemática y Enfoque
+El sector ganadero en Aguascalientes se enfrenta a numerosos desafíos, desde problemas con los cultivos forrajeros hasta la competencia con importaciones y enfermedades. Entre estos desafíos, destaca la necesidad apremiante de mejorar el control del ganado, que impacta en la seguridad alimentaria, pérdidas económicas y la reputación del sector. AGROFUTURO busca resolver las dificultades relacionadas con el rastreo, la seguridad y la eficiencia en la gestión del ganado, mediante un sistema integral y adaptable a cualquier rancho.
+
+Ventajas
+Escalabilidad: AGROFUTURO es escalable en múltiples áreas de la operación ganadera.
+Eficiencia: Permite identificar y corregir eficientemente errores.
+Monetización mediante criptomonedas: Ofrece beneficios tanto para nosotros como proveedores, al permitir la monetización mediante criptomonedas.
+Adaptabilidad: Es adaptable a diversos sectores y procesos.
+Amplio alcance: Ofrece un amplio alcance y posibilidad de expansión según las necesidades.
+
+Reportes por Entregar
+Registro de existencias ganaderas
+Movimientos de ganado
+Registro de medicamentos y tratamientos
+Registro de vacunaciones
+Reportes de bienestar animal
+Reportes de sanidad animal
+
+Estrategia de Implementación
+Análisis de requisitos y objetivos.
+Selección de tecnología.
+Planificación de la implementación.
+Prueba y evaluación piloto.
+Implementación gradual.
+Monitoreo y ajuste.
+Optimización continua.
+
+Funciones
+Identificación y solución eficiente de errores.
+Transacciones.
+Seguimiento de salud.
+Registro de usuarios.
+Control y gestión de ganado.
+
+Instalación y Uso
+Para instalar y utilizar AGROFUTURO, sigue los siguientes pasos:
+Clonar el repositorio: git clone https://github.com/vicklm/AgroFuturo.git
+Requisitos del Sistema: Asegúrate de cumplir con los requisitos del sistema especificados en la documentación.
+Descarga: Descarga el paquete de instalación desde nuestro repositorio oficial.
+Instalación: Sigue las instrucciones de instalación proporcionadas en el archivo README.md del repositorio.
+Configuración: Configura AGROFUTURO según las necesidades de tu rancho ganadero.
+Uso: Consulta la documentación para aprender cómo utilizar las diferentes funciones y características de AGROFUTURO. 
 
 ## Installation
 
